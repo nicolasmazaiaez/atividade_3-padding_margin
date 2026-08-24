@@ -3,3 +3,65 @@
     margin: 0%;
     box-sizing: border-box;
 }
+
+main{
+    border: 3px solid black;
+    width: 450px;
+    margin: auto;
+    height: 560px;
+    margin-top: 10px;
+
+    div{
+     border: 2px solid black;
+     display: block;
+     height: 200px;
+     width: 200px;
+     padding-left: 10px;
+    }    
+}
+
+a{
+   border: 3px solid black;
+   display: inline-block;
+   height: 50px;
+   width: 175px;
+   padding: 13px 21px 5px;
+}
+
+p{
+    display: block;
+    border: 1px solid black;
+    margin-bottom: 12px;
+}
+
+.e{
+    margin-bottom: 15px;
+}
+
+.p{
+    margin-bottom: 40px;
+}
+
+.p2{
+    margin-bottom: 20px;
+}
+
+.caixa, .caixa2{
+    display: inline-block;
+    height: 90px;
+    width: 95px;
+    border: 3px solid black;
+    
+}
+
+.caixa2{
+    margin-left: -20px;
+}
+
+footer{
+    border: 3px solid black;
+    display: block;
+    margin: 10px 20px 30px 40px;
+ }
+
+
